@@ -19,4 +19,4 @@ Este projeto foi desenvolvido com a colaboração de:
 - [Charles Morais](https://github.com/charles-serafim)
 - [Edvaldo Oliveira](https://github.com/EdOliveiraJr)
 - [Paula Marinho](https://github.com/paulaandrezza)
-- [Suellen Reis](https://github.com/)
+- [Suellen Reis](https://github.com/suellensr)
